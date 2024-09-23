@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\ContactManagerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\ContactManagerApplication.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\ContactManagerApplication.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\ContactManagerApplication.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\bin\Debug\net8.0\ContactManagerApplication.exe
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\bin\Debug\net8.0\ContactManagerApplication.deps.json
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\bin\Debug\net8.0\ContactManagerApplication.runtimeconfig.json
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\bin\Debug\net8.0\ContactManagerApplication.dll
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\bin\Debug\net8.0\ContactManagerApplication.pdb
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\ContactManagerApplication.dll
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\refint\ContactManagerApplication.dll
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\ContactManagerApplication.pdb
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\ContactManagerApplication.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ContactManagerApplication\ContactManagerApplication\obj\Debug\net8.0\ref\ContactManagerApplication.dll
